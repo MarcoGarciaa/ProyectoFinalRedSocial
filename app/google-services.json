@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226463048022",
+    "project_id": "proyectofinal-a51b3",
+    "storage_bucket": "proyectofinal-a51b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226463048022:android:a0a6f26f3c3d742d4736f7",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinalredsocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRss6hK7OqjvuB36u_v_NgfqW5ob9CtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
